@@ -1,7 +1,7 @@
 # 👨‍💼 Employee Management System
 
-**Live App**: [emp.com](#)  
-**GitHub Repo**: [GitHub Link](#)
+**Live App**: [emp.com](https://emp-test-five.vercel.app/login)  
+**GitHub Repo**: [GitHub Link](https://github.com/jcharsha2003/emp2)
 
 > A robust and scalable Employee Management System built using the **MERN Stack**, fully containerized with **Docker** and deployed to a custom domain via **DuckDNS**. This platform ensures secure authentication, centralized employee records, and streamlined task tracking — perfect for modern businesses and HR workflows.
 
@@ -187,8 +187,21 @@ The **Employee Management System** brings together seamless UI, secure APIs, and
 > 👨‍💻 *Empowering your workforce with technology.*
 
 ---
+## 🔐 Login Credentials (For Demo)
 
-**🧑‍💻 Developed by**: [Your Name]  
-**🌐 Website**: [emp.com](#)  
+You can use the following credentials to log in and explore the system:
+
+### 👑 Admin Login
+- **Username**: `chandu`
+- **Password**: `chandu`
+
+### 👷 Employee Login
+- **Username**: `jayanth`
+- **Password**: `jayanth`
+
+> ⚠️ These accounts are for testing purposes only. Always update credentials and enforce strong password policies in production.
+
+**🧑‍💻 Developed by**: [J.Chandra Harsha]  
+**🌐 Website**: [emp.com](https://emp-test-five.vercel.app/login)  
 **📚 License**: MIT (optional)  
 **📬 Contact**: [your-email@example.com]
